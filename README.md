@@ -16,12 +16,12 @@ A simple URL shortener built with Node.js and Express. This project allows users
 
 2. **Install the dependencies:**
 
-npm install
+   npm install
 
 3. **Start the server:**
 
-node index.js
+   node index.js
 
 4. **Open your browser:**
 
-Navigate to http://localhost:3000 to access the URL shortener.
+   Navigate to http://localhost:3000 to access the URL shortener.
